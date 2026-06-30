@@ -1,0 +1,39 @@
+# Android SDK e configuração local — nunca commitar
+local.properties
+*.keystore
+*.jks
+
+# Build
+.gradle/
+build/
+*/build/
+**/build/
+out/
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Kotlin
+*.class
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Crashlytics
+/app/com_crashlytics_export_strings.xml
+/app/crashlytics-build.properties
+/app/crashlytics.properties
+
+# Proguard
+/app/proguard/
+
+# Google Services (contém chaves de API)
+google-services.json
+GoogleService-Info.plist

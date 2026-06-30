@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ColetaFlow</string>
+    <string name="tracking_notification_channel_name">Rota em andamento</string>
+    <string name="tracking_notification_channel_description">Notificação exibida enquanto uma rota de coleta está ativa</string>
+    <string name="tracking_notification_title">ColetaFlow — Rota ativa</string>
+    <string name="tracking_notification_text">Enviando sua localização…</string>
+    <string name="tracking_notification_stop">Encerrar rota</string>
+</resources>

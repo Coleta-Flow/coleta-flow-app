@@ -1,0 +1,8 @@
+## Copie este arquivo para local.properties e preencha com seus valores
+## NUNCA comite local.properties no git
+
+# Caminho do Android SDK (ajuste para sua máquina)
+sdk.dir=/Users/YOUR_USER/Library/Android/sdk
+
+# Token para baixar o Mapbox Android SDK (https://account.mapbox.com)
+MAPBOX_DOWNLOADS_TOKEN=pk.eyJ1IjoiY29sZXRhZmxvdyIsImEiOiJjaW9SbW...
